@@ -1,0 +1,5 @@
+{
+  "name": "Copy of PhishGuard AI",
+  "description": "An advanced phishing email detector powered by Gemini 3 Flash, providing real-time analysis of suspicious emails, identifying red flags, and calculating risk scores.",
+  "requestFramePermissions": []
+}
